@@ -14,7 +14,7 @@ I love learning and building some cool stuff.
 
 P.S: Not many commits because it is my new GitHub!
 
-<a href="https://github.com/yourusername" target="_blank">
+<a href="https://github.com/MaximeIn-Tech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
 </a>
 
