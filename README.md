@@ -37,9 +37,11 @@ _P.S: This GitHub account is new hence the lack of a lot of commits. Rebranding 
 ![mcbook](https://img.shields.io/badge/MacBook_M1-grey?style=for-the-badge&logo=MacBook&logoColor=F7DF1E) ![2020](https://img.shields.io/badge/2020-grey?style=for-the-badge&logo=MacBook&logoColor=F7DF1E)
 
 ## 🔗  Links
-
-<a href="https://github.com/MaximeIn-Tech" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MaximeIn-Tech) [![resume](https://img.shields.io/badge/RESUME-4285f5?style=for-the-badge)](https://drive.google.com/file/d/1x5uAfhOfjNBagQqIiNuh-y_3sEqrjAvC/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1x5uAfhOfjNBagQqIiNuh-y_3sEqrjAvC/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/RESUME-4285f5?style=for-the-badge" alt="Resume Badge">
 </a>
+
+
 
 
