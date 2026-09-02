@@ -7,11 +7,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧑‍💻 About Me
 
-🤓 I am **Maxime Hamou**, a former networking IT turned personal trainer turned back into IT professional! After 3+ years working in the web3/blockchain industry, I am now transitioning into data science!
+🤓 I am **Maxime Hamou**, a former networking IT turned personal trainer turned back into IT professional! After 3+ years working in the web3/blockchain industry, I am now transitioning into **Cloud / Systems / DevOps**!
+
+🐧 Aiming for a **Cloud Engineer**, **DevOps Engineer** or **SysOps** role. I'm mainly a Linux guy, but comfortable on Mac and Windows too.
 
 🧑‍💻 I love learning and building cool stuff. I have built multiple Telegram bots and personal dashboards. I like experimenting with new technologies and ways to ease my life and others'.
 
-🔭 Currently deep in a data science formation, sharpening my Python, SQL and machine learning skills.
+🔭 Currently leveling up on Linux administration, networking fundamentals, cloud platforms and infrastructure automation.
 
 🤿 Outside my love of tech, I enjoy **learning new skills**. I have been scuba diving for a while, and I'm learning leatherwork and martial arts!
 
@@ -28,24 +30,34 @@ You can click the Preview link to take a look at your changes.
 
 _P.S: This GitHub account is new hence the lack of a lot of commits. Rebranding my old one would have made a mess..._
 
+<!---
 ## 🚀 Projects
 
 * **[Project Name]** — one-line description of what it does and why it's interesting → [repo link]
 * **[Telegram Bot Name]** — what the bot automates or solves → [repo link]
-* **[Dashboard Name]** — what data it tracks and what stack it uses → [repo link]
-
-> 💡 Replace these with your actual repos, or pin them directly from your GitHub profile settings (Customize your pins) — pinned repos show up automatically below this README.
+* **[Homelab / Infra Project]** — e.g. a self-hosted setup, a CI/CD pipeline, an IaC repo → [repo link]
+--->
 
 ## ⚙️ Skills
 
-### Languages & Data
-![python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=Python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![sql](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=postgresql&logoColor=white)
+### Operating Systems
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![macos](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Data Science Tools
-![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikitlearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Cloud & Infrastructure
+![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Other Tools
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+### Scripting & Automation
+![bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=Python&logoColor=white)
+
+### DevOps Toolchain
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![githubactions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+## 📜 Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| AWS Certified Cloud Practitioner | AWS | ✅ / 🎯 target: EOM October |
+| AWS Certified AI Practitioner | AWS | ✅ / 🎯 target: EOM October |
 
 ## 💻 Setup
 ![mcbook](https://img.shields.io/badge/MacBook_M1-grey?style=for-the-badge&logo=MacBook&logoColor=F7DF1E) ![2020](https://img.shields.io/badge/2020-grey?style=for-the-badge&logo=MacBook&logoColor=F7DF1E)
@@ -57,4 +69,4 @@ _P.S: This GitHub account is new hence the lack of a lot of commits. Rebranding 
 
 ## 🔗 Links
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MaximeIn-Tech) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN) [![resume](https://img.shields.io/badge/RESUME-4285f5?style=for-the-badge&logo=readdotcv)](https://drive.google.com/file/d/1x5uAfhOfjNBagQqIiNuh-y_3sEqrjAvC/view?usp=sharing) [![medium](https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium)](https://medium.com/@MaximeInTech)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MaximeIn-Tech) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-in-tech/) [![resume](https://img.shields.io/badge/RESUME-4285f5?style=for-the-badge&logo=readdotcv)](https://drive.google.com/file/d/1x5uAfhOfjNBagQqIiNuh-y_3sEqrjAvC/view?usp=sharing) [![medium](https://img.shields.io/badge/MEDIUM-black?style=for-the-badge&logo=medium)](https://medium.com/@MaximeInTech)
